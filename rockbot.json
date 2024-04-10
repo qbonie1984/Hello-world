@@ -73,7 +73,7 @@
                     "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E02.srt"
                 },
                 "media:vtt": {
-                    "url": NaN
+                    "url": ""
                 }
             },
             {
@@ -91,7 +91,7 @@
                     "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E03.srt"
                 },
                 "media:vtt": {
-                    "url": NaN
+                    "url": ""
                 }
             },
             {
@@ -235,7 +235,7 @@
                     "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH_S01E01.srt"
                 },
                 "media:vtt": {
-                    "url": NaN
+                    "url": ""
                 }
             },
             {
