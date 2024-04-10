@@ -1,0 +1,1791 @@
+{
+    "channel": {
+        "title": "SN to Rockbot Video Feed",
+        "link": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/",
+        "description": "A collection of video content from Spirits Network.",
+        "item": [
+            {
+                "title": "Barrel Select: Maker's Mark",
+                "description": "When the Black Bourbon Society gets involved in a Maker's Mark Private Selection something special always happens. Join Armond and Samara Davis' journey to create their latest unique bourbon, created with Maker's newest stave, Roasted French Mendiant. This whisky was not only highly anticipated and limited, it took less than 72 hours to sell out",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Barrel Select: Borders",
+                "description": "Cask Program at The Borders Distillery, an opportunity to own and mature your own cask of whisky is ever rarer! Join award winning spirits journalists Brad Japhe and Becky Paskin as they head to the Borders region to sample the first whisky to come out of there in 200 years.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BAS-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Bourbon Barter: One man, 180 miles",
+                "description": "One man, 180 miles, and a sh*tload of Bourbon. Adam Carolla hits the Kentucky Bourbon Trail with cases of Bulleit as his only currency in part one of Bourbon Barter. With a 25-mile limit to each deal, things get interesting for Carolla along the way, which tends to happen when Lamborghinis, corn fields, and a Tempur Pedic showroom are thrown into the mix. Stay tuned to see if he makes it to the finish line.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Bourbon Barter: Unexpected Trades",
+                "description": "Day two of Adam Carolla's Kentucky Bourbon Trail adventure brings some...unexpected trades. From a gigantic mural of his own face to some prized historic turds (there's no time to explain), the barters get more and more interesting as the final destination draws nearer.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": NaN
+                }
+            },
+            {
+                "title": "Bourbon Barter: The Home Stretch",
+                "description": "In the third and final Bourbon Barter episode, Adam Carolla makes his way through the home stretch of the Kentucky Bourbon Trail, encountering a few interesting (and rather important) characters along the way. Will he make it past the finish line in time to catch ZZ Top at the Bourbon and Beyond festival? There's only one way to find out.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/BBT-S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": NaN
+                }
+            },
+            {
+                "title": "Celebration Libations: My Blue Valentine",
+                "description": "Be inspired by the legends of the bartending community as they bring you elevated seasonal drink recipes for every occasion. With Valentine's Day around the corner, Thomas Holbert AKA Tommy the Bartender has got you covered with a romantic and unexpected Johnnie Walker Blue Label cocktail that will dazzly your Valentine. Join Tommy as he makes his inspired cocktail for his sweetheart, Sandra.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Celebration Libations: Strong Knows Strong",
+                "description": "Celebrate the strong women in your life this Women\u2019s Month with a great cocktail. Mixologist Alli Torres is joined by Julie Reiner as she mixes up Julie\u2019s recipe for Strong Knows Strong with Johnnie Walker Black Label.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Celebration Libations: The Valarie",
+                "description": "This Mother\u2019s Day celebrate mom with a fantastic cocktail using Johnnie Walker High Rye. Mixologist Karl Franz Williams is joined at the bar by the love of his life and mother of his children. He\u2019ll craft her a custom cocktail and teach you how to recreate it at home.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E03-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E03.vtt"
+                }
+            },
+            {
+                "title": "Celebration Libations: Old Story Long",
+                "description": "Join celebrated Ukrainian mixologist Dmytro Shovkoplias as he crafts a custom Father\u2019s Day cocktail for one of the world\u2019s foremost authorities on spirits, Flavien Desoblin using Johnnie Walker Blue Label.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E04-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CL-S01E04.vtt"
+                }
+            },
+            {
+                "title": "Cellar Sessions: Mi Familia es tu Familia",
+                "description": "Spirits Expert Elayne Duff cracks open three bottles from the Jose Cuervo Reserva De La Familia portfolio with acclaimed spirits writer Tony Sachs and author Kurt Maitland. Curious drinkers everywhere can enjoy this fly on the wall discussion on agave, aging and their intimate experiences from careers in this alluring industry.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Cellar Sessions: Innovation & Identity",
+                "description": "Join Elayne and her worldly friends, Global Food Expert Nilou Motamed and Proximo Spirits Agave Advocacy Lead, Jaime Salas as they enjoy the world's first pechuga tequila and a spirited dialogue about staying true to yourself.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Cellar Sessions: Collaboration and Celebration",
+                "description": "Elayne Duff is joined by fellow agave lovers Nilou Motamed and Jaime Salas as they reunite to taste three amazing bottles of Maestro Dobel tequila and talk growth, collaboration, and celebrating your personal victories.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S02E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S02E01-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S02E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CS-S02E01.vtt"
+                }
+            },
+            {
+                "title": "Cocktail History: Old Fashioned",
+                "description": "Was the first Singapore Sling made in Southeast Asia? What does the Margarita have to do with a famous jazz musician? We\u2019re telling the historical tales of the world\u2019s most iconic and inventive cocktails. In the premiere episode, discover the facts and folklore of the most customizable concoction, The Old Fashioned. From the first bottled bourbon in Louisville to the hotel bars of New York City, The Old Fashioned has a worldly upbringing that\u2019s as old as the word \u201ccocktail\u201d.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH_S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": NaN
+                }
+            },
+            {
+                "title": "Cocktail History: Dark 'n Stormy",
+                "description": "Sometimes the origin story of a cocktail is as clear as a bright Bermuda day. In this episode of Cocktail History, discover how a sailing mishap back in 1806 ultimately brought about the creation of the Dark \u2018n Stormy\u00ae.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/CH-S01E02.vtt"
+                }
+            },
+            {
+                "title": "First Taste: Mountain Angel",
+                "description": "First Kiss. First car. First home. You always remember your first, and spirits are no exception. That first time a new dram hits your lips can change your life, and we\u2019re bottling this experience in First Taste. Join spirits experts Aaron Goldfarb, Elayne Duff and Kurt Maitland try Mountain Angel, the first 10 year old American straight single malt, an exclusive new release from legendary American distillery, Stranahan's Colorado Whiskey, to see if it's love at first sip.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/FIR-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/FIR-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/FIR-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/FIR-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Grillin It: Sour And Spice Makes BBQ Nice",
+                "description": "Thyme is on your side when you\u2019re mixing up Samara Davis\u2019s twist on a whisky sour, with thyme infused simple syrup and a touch of cracked pepper, this cocktail pairs perfectly with Pitmaster, Bryan Furman\u2019s Lemon Pepper Chicken.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Grillin It: A Peachy Kean BBQ",
+                "description": "What\u2019s in Pitmaster Bryan Furman\u2019s secret Peach Mustard sauce? How about some peated scotch to elevate his smokey ribs. Wash it all down with Samara Davis\u2019s \u201cnot so\u201d Old Fashioned and you'll be living in backyard bliss.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/GRL-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: No Half Assed Mules",
+                "description": "Check out liquid chef Rob Floyd as he gives the traditional Moscow Mule \u201ca kick\u201d with 3 different variations you won\u2019t want to miss. You'll need vodka, gin, and whiskey to make the drinks along with Rob. If you don\u2019t have them on hand, order it now.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E01-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E01-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Staycation Margatias",
+                "description": "If you\u2019re dreaming of some sand between your toes and a cold drink in your hand, then tune in to see Liquid Chef Rob Floyd head south of the border to put a unique twist on everyone\u2019s favorite poolside cocktail...the margarita!",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E02-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E02-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: World of Rye",
+                "description": "This week on Home Bar Hero, we're going deep into the world of rye. Whether you're a fan of the classic Manhattan or into something far from 'Old Fashioned,' you're not going to want to miss Liquid Chef Rob Floyd as he cracks open a bottle of WhistlePig Whiskey and mixes up 4 cocktails that showcase the unexpected versatility of this spirit.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E03-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E03-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Confiscated",
+                "description": "On this week's Home Bar Hero Liquid Chef Rob Floyd seized control of our taste buds with a few great cocktails designed to steal the show using Kentucky Owl Confiscated Bourbon Whiskey.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E04-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E04-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E04-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Quarantinis",
+                "description": "This week on #HomeBarHero, Liquid Chef Rob Floyd is teaming up with Maxim to take stay-at-home orders for drinks that buzz, float and bubble to make your time inside a bit more exciting. We\u2019re calling them \u201cQuarantinis\u201d and they are the perfect way to spice up any shelter in place.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E05.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E05-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E05-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E05-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Anagram Cocktails",
+                "description": "This week on Home Bar hero, we\u2019re mixing it up with Liquid Chef Rob Floyd and Glenmorangie \u2026 Literally. We\u2019re talking \u201canagram cocktails,\u201d innovative drinks with names using the letters G-L-E-N-M-O-R-A-N-G-I-E. If you\u2019ve ever wanted to sip \u201cA Ginger Lemon\u201d or a \u201cGleaming Reno\u201d, this is your chance, so don\u2019t miss out, because everyone loves a little wordplay with their whisky.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E06.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E06-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E06-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S01E06-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Summer Sippers",
+                "description": "You don\u2019t want to miss Liquid Chef Rob Floyd as he mixes up some summertime sippers that are sure to help you soak up the sun in style. Whether you\u2019re poolside or hitting the beach, these are the cocktails you need in your hand when your feet are in the sand.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E01-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E01-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: LoCal Cocktails",
+                "description": "You don't have to go far to enjoy #HomeBarHero tonight, as Liquid Chef Rob Floyd is keeping it LoCal. No, that's not a typo. We're talking low-calorie drinks using locally sourced ingredients that taste great without the weight. Tune in to keep that beach bod rolling into sweater season.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E02-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E02-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Tailgate",
+                "description": "Play ball! Now that sports are back in full swing, Home Bar Hero is ready to take the field and show you how to mix some pre-game cocktails that will give you the home team advantage for every game.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E03-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E03-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Top Shelf Cocktails",
+                "description": "Home Bar Hero is going to be a \"grand\" old time tonight as Liquid Chef Rob Floyd brings some cocktails to the top shelf with the immaculate Grand Marnier. From smokey Negronis to bubbly Palomas, you need to see how a little orange-flavored liqueur can elevate these classic cocktails to a whole new level.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E04-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E04-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E04-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Tis the Season",
+                "description": "Liquid Chef Rob Floyd is back for your holiday cocktail inspiration as he tests out some special recipes from The Cocktail Project to get you ready for your intimate gatherings this season.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E05.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E05-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E05-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E05-Episode.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Home For The Holidays",
+                "description": "This week, its all about turning your quiet evenings at home into a celebration worthy of saying goodbye to 2020 with recipe inspiration from The Cocktail Project.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E06.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E06-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E06.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E06.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: 2021 New Year Celebration",
+                "description": "Ring in the new year with Liquid Chef Rob Floyd as he mixes up an insanely delicious cocktail using Stranahan's Blue Peak Whiskey.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E07.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E07-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E07.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S02E07.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Derby Edition",
+                "description": "Watch this episode of Home Bar Hero, Derby edition with Rob Floyd as he demonstrates some of the traditional cocktails associated with the two-day event, such as the the Woodford Spire - a refreshing mix that uses Woodford Reserve Straight Bourbon Whiskey; the Finlandia Oaks Lily- a light, refreshing drink crafted from a base of Finlandia Vodka; and no Derby is complete without an Old Forester Mint Julep.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E01-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E01.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Dads Drinking Rum",
+                "description": "Rob Floyd is joined behind the bar by John from @dadsdrinkingbourbon for this special holiday episode. Can he convince this bourbon lover to drink rum this holiday season?",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E02.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Some Love For 2022",
+                "description": "The new year is upon us and Rob is here to show you how to make the perfect NYE cocktail with special guest Nashville blogger and fashionista, Leigh Love, to mix things up in style.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E03.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Stress Free Summer",
+                "description": "The weather is heating up, which means it\u2019s the perfect time to serve some refreshing summer cocktails for your friends and family. Join Rob behind the bar as he shows us how to make three amazing and stress free drinks with Ramazzotti Aperitivo Rosato.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH_S03E04_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E04.vtt"
+                }
+            },
+            {
+                "title": "Home Bar Hero: Calling All Whiskymakers",
+                "description": "Join Rob Floyd in the studio as he mixes up some delicious Compass Box Scotch Whisky cocktails with three incredible bottles Orchard House, Artist Blend, and The Peat Monster. Inspired by Compass Box\u2019s inventive and experimental whisky making, Rob shares two imaginative fruit forward cocktails, takes on a modern classic, and shows you how to mix a three ingredient drink that will delight your guests.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH_S04E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S04E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HBH-S03E04.vtt"
+                }
+            },
+            {
+                "title": "House of Flavour: Unctuous Juicy Boy",
+                "description": "Get your palate ready for a burst of delicious knowledge when Britain's master mixologist Jack Sotti and Michelin star chef Paul Lobban nerd out on the perfect pairing; a \u201cT10 Sea Highball\u201d with succulent oysters and black mushroom licorice!",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E01.vtt"
+                }
+            },
+            {
+                "title": "House of Flavour: You Complete Me",
+                "description": "Britain's master mixologist Jack Sotti is back to riff on complementary and contrasting flavors with Michelin star chef Paul Lobban as they simplify the seemingly complex process of lactose fermentation to create a Tanqueray Rangpur Lime \u201cBlackberry & Pine Highball\u201d paired with cod roe waffles.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E02-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E02.vtt"
+                }
+            },
+            {
+                "title": "House of Flavour: Lobster",
+                "description": "Master mixologist Jack Sotti and Michelin star chef Paul Lobban team up to put a twist on the classic Ramos Gin Fizz and pair it with lobster and fiery xo sauce.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/HOF_S01E03.vtt"
+                }
+            },
+            {
+                "title": "Magic of Mezcal: Ghost Donkey",
+                "description": "Join Montelobos Mezcal's Camille Austin and legendary bartender Nacho Jimenez for a round inside New York City's favorite agave spirits den, Ghost Donkey (where time has a way of stopping while you sip). Salud!",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E01-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E01-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E01-Episode.vtt"
+                }
+            },
+            {
+                "title": "Magic of Mezcal: Claro",
+                "description": "Trek to Brooklyn, NY with La Loba Mezcalera, Camille Austin, to scope out Claro's extraordinary mezcal pairings. Let's just say they're on fire.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E02-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E02-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E02-Episode.vtt"
+                }
+            },
+            {
+                "title": "Magic of Mezcal: La Contenta",
+                "description": "La Loba Mezcalera visits La Contenta in Manhattan to teach us about Mezcal, its history, and the traditional way to taste it. Join Camille and her friend Kat as they learn to mix La Contenta's signature cocktail: The Oaxaca Express.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E03-Still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E03-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MOM-S01E03-Episode.vtt"
+                }
+            },
+            {
+                "title": "Meet the Masters: Richard Paterson",
+                "description": "An enlightening moment with renowned Master Distiller Richard Paterson Host: Richard Patterson",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E01-still-1920x1080.jpg"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Meet the Masters: Enrique de Colsa",
+                "description": "Learn the five steps of Tequila making with Don Julio Master Distiller Enrique de Colsa in this episode of Meet the Masters, an ode to agave country through the eyes of a true veteran. Host: Enrique de Colsa",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Meet the Masters: Bill Lumsden",
+                "description": "Dr. Bill Lumsden takes us through an eye opening exploration into his love for single malts and what makes Glenmorangie's newest release, \"A Tale Of Cake\" so special.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E03.vtt"
+                }
+            },
+            {
+                "title": "Meet the Masters: Bertha Gonz\u00e1lez Nieves",
+                "description": "Discover how a passion for the agave plant, a love of Mexican culture and a pioneering spirit to innovate helped Bertha Gonz\u00e1lez Nieves, Co-founder & CEO of Casa Dragones, create some of the world\u2019s finest Tequila.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E04-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/MTM-S01E04.vtt"
+                }
+            },
+            {
+                "title": "Mix & Flix: Mexico",
+                "description": "Underwater artist Julie Gautier on finding the soul of dance in Mexico\u2019s cenotes.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E01_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E01.vtt"
+                }
+            },
+            {
+                "title": "Mix & Flix: Japan",
+                "description": "Artist Fidan Bagirova unearths inspiration through a Japanese tradition.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E02_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E02.vtt"
+                }
+            },
+            {
+                "title": "Mix & Flix: Spain",
+                "description": "Artist Felix Semper reconnects with his roots in Spain.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E03_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SBK_S01E03.vtt"
+                }
+            },
+            {
+                "title": "Off the Shelf: Robert Simmons",
+                "description": "Clay Risen sits down with martini master Robert Simonson to discuss the ins and outs of the cocktail world's grand classics, regional drinking, and terrible puns.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E01-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E01-Episode.vtt"
+                }
+            },
+            {
+                "title": "Off the Shelf: Aaron Goldfarb",
+                "description": "Drinks journalist and author Aaron Goldfarb sits down to chat bone marrow infusing, holiday cocktails (think aged eggnog), and one of his latest books, Hacking Whiskey. After a few drinks, the ink blots and J\u00e4germeister come out, and things inevitably get weird.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E02_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E02-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E02-Episode.vtt"
+                }
+            },
+            {
+                "title": "Off the Shelf: Amanda Schuster",
+                "description": "It's Taboo time with Clay Risen and guest Amanda Schuster, journalist and author of New York Cocktails. Get ready for some fun and games (and Amanda's worst nightmare, a shaken Manhattan).",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E03_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E03-Episode.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/OTS-S01E03-Episode.vtt"
+                }
+            },
+            {
+                "title": "Peggy Noes Best: Batch Cocktail",
+                "description": "Learn about all things batched cocktails with serial spirits entertainer Peggy Noe Stevens and guest Nicole Stipp, President of Matson & Gilman. Large format whiskey cocktails coming right up.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Peggy Noes Best: Host for the Holidays",
+                "description": "Serial spirits entertainer Peggy Noe Stevens is in full holiday mode in this episode of Peggy Noes Best. Serving a whiskey punch at your seasonal functions never got easier\u2013\u2013just add cranberries.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E02_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Peggy Noes Best: Make your Home Bar the Star",
+                "description": "Peggy Noe Stevens teaches us a lesson on what it takes to set up your ultimate home bar in a spirited edition of Peggy Noes Best.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E03_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E03.vtt"
+                }
+            },
+            {
+                "title": "Peggy Noes Best: Hosting a Tasting",
+                "description": "The goal of tasting whiskey is to enjoy the spirit in a way that is meaningful to you; Peggy opens up our palates in this edition of Peggy Noes Best: Hosting a Tasting.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E04_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PNB-S01E04.vtt"
+                }
+            },
+            {
+                "title": "Raising the Bar: Making Spirits Bright",
+                "description": "Our hosts are Raising the Bar this holiday season sharing their expert insights on curating the perfect serve and mastering the art of hosting your holiday parties. Join them in helping musical guest, Ryan Cabrera, celebrate the season with more meaningful bottles, intimate tastings and a signature cocktail, the Chivas Gold Rush.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB_S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB_S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB_S01E01.vtt"
+                }
+            },
+            {
+                "title": "Raising the Bar: Holiday Swag",
+                "description": "Discover how to tailor your holiday gift list with bottles that resonate with thoughtfulness and authenticity. Our expert hosts are joined by NYC\u2019s most relatable and culturally infused personalities in the digital content industry, Swaggy Sie. Watch her learn to serve a Glenlivet Royale and sip along for a game of \u201cSip, Gift, or Save\u201d.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB_S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/RTB_S01E02.vtt"
+                }
+            },
+            {
+                "title": "Science of Spirits: KyMar",
+                "description": "Journey to upstate New York with host Flavien Desoblin, to learn the science behind a unique malt whiskey distillery.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Science of Spirits: Waterford",
+                "description": "Join spirits enthusiast Segun Oduolowu as he traverses the rolling hills of South East Ireland to discover the magic and natural methodologies behind Waterford Whisky. There, Segun learns firsthand about Waterford\u2019s terroir project from the biodynamic growers, terroir specialists, and passionate distillers who brought the program to life.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS-S01E02-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS_S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOS_S01E02.vtt"
+                }
+            },
+            {
+                "title": "Sip In The City: NYC Rooftop Refreshments",
+                "description": "As the summer commences across the US, happy hour is essential, but finding cocktail inspiration isn't always easy. In this fun twist on DIY cocktail tutorials, Liquid Chef Rob Floyd brings his charisma and expertise to a rooftop bar in New York where he will show us how to create breathtaking cocktails for every occasion, highlighting Musgrave Gin in short, high-energy segments.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIC-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIC-S01E01-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIC-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIC-S01E01.vtt"
+                }
+            },
+            {
+                "title": "The Sipping Point: New Orleans",
+                "description": "Join Aaron Goldfarb and Brad Japhe after-hours in New Orleans for a nightcap with Martell cognacs and Jefferson's whiskies. Tour\u00e9 Folkes, founder of Turning Tables, drops by with some po-boy sandwiches and mixologist, Jack Schramm, whisks up some Sazeracs to complete their night in the Big Easy.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP_S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E01.vtt"
+                }
+            },
+            {
+                "title": "The Sipping Point: Wilderness Trail",
+                "description": "After going \"off-trail\" from their tour guide, spirits writers Brad Japhe and Aaron Goldfarb find themselves on the ultimate private tour of Wilderness Trail Distillery. Their curiosity is rewarded when Wilderness Trail Distillery co-founder Dr. Pat Heist, PHD shares a behind the scenes look at the lab, rickhouse, and visitor\u2019s center. Along the way, they\u2019ll taste any array of Wilderness Trail Whiskey, from new make to special releases.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SIP_S01E02.vtt"
+                }
+            },
+            {
+                "title": "Story of the Spirits: Goslings",
+                "description": "Stormy seas make for smooth spirts and Goslings has a distinctive new expression of their blended rum to prove it. Join Tommy the Bartender as he makes his way to Bermuda to meet the people behind the bottle, gets a taste of island life, and discovers the fascinating journey of Spirited Seas.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Story of the Spirits: Famous Grouse",
+                "description": "Tommy heads to Scotland to discover all that goes into crafting The Famous Grouse whisky. There, he learns about their meticulous blending process and quality control and why this spirit has been the country\u2019s favorite for over a century.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E05-EPISODE.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E05-still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E05-EPISODE.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/SOTS-S01E05-EPISODE.vtt"
+                }
+            },
+            {
+                "title": "Take Out: Los Angeles",
+                "description": "The new best night out is redefined with food influencer Corey Marshall, @MissFoodieProblems, as she gives us the insider's guide to pairing convenience, canned cocktails, and good cuisine. Comfort has never felt so good in the premiere episode of Take Out, when Corey orders in from one of the best Southeast Asian restaurants in Los Angeles, Bone Kettle, and pairs it with a Cutwater\u2122s Rum Tiki Mai Tai canned cocktail for the easiest, most delicious night in.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TO-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TOL-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TO-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TO-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Tales From The Cask: The Spirit of Don Julio",
+                "description": "The Spirit of Don Julio: Get an exclusive inside look at the legendary Don Julio Distillery and learn the art and history behind the tequila from Master Distiller Enrique De Colsa himself. We go on a journey takes takes us through the tequila making process from cultivation all the way to distillation and along the way we interview passionate people from all walks of life that have helped shape the legacy of Don Julio.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TFC-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TFC-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TOC-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/TFTC_S01E01.vtt"
+                }
+            },
+            {
+                "title": "United States of Spirits: Whisky Pairings, New York",
+                "description": "There's so much to discover when it comes to New York City's bar and restaurant scene. That's why we've enlisted food, drink, and city life expert Marisel Salazar to take us on a Johnnie Walker-fueled journey through Brooklyn and Manhattan, where together we discover some of the best pairings in the boroughs.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/USOS-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/USOS-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/USOS-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/USOS-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Cardi's Whipshots: Cocktails with Cardi",
+                "description": "Cocktails with Cardi put the bouchey in your boozey creations. Rob and Cardi are back, mixing up some mind blowing drinks topped with the coolest new ingredient, Whipshots.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP_S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP_S01E01.vtt"
+                }
+            },
+            {
+                "title": "Cardi's Whipshots: Holiday WhipShots",
+                "description": "Cardi B is in this house! Cardi joins Rob Floyd behind the bar to whip up some special holiday drinks with her new exclusive Whipshots.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP_S01E02_still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WIP_S01E02.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Affordable Single Malts",
+                "description": "This week, we'll be tasting three delicious, complex and sophisticated single malts that won't break the bank. It's the whisky lovers event you won't want to miss.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Whisky Is Coming",
+                "description": "On this week's #whiskywednesdays, we're sampling Game of Thrones themed single malts to see which one deserves a seat on the iron throne in your bar.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Peat, Smoke and a Lack Thereof",
+                "description": "For peat\u2019s sake! On this week's #WhiskyWednesdays, we're getting bogged down in the details of whiskies known for their peatiness. Whether you love some earthiness or think its for the worms, this is the episode you don\u2019t want to miss.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E03.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Best In Class",
+                "description": "This week on #WhiskyWednesdays, we've got no time for second place as we celebrate Flavien's favorite single malts in their respective class. From the best Speyside, (Cragganmore 12), to the Best 15 YR (The Singleton 15YR) to the best young malt (Lagavulin 8YR), we're crowning our whisky champions. So order your bottles now and meet us in the winner's circle.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E04.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E04-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E04.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Penny For Your Thoughts",
+                "description": "This week on #WhiskyWednesdays, we\u2019re kicking in our two cents on the importance of copper in distillation. From sulfur removal to heat conduction, we\u2019ll be nerding out to explain why it's so damn important in giving whisky it\u2019s bold flavors.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E05.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E05-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E05.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E05.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Knock On Wood",
+                "description": "This week on #WhiskyWednesdays, we\u2019re going out on a limb to talk about the importance of oak barrels. From maturation styles to cask sizes, we\u2019ll be covering every aspect of the aging process and tasting some top notch single malts that you're sure to love.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E06.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E06-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E06.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E06.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Sound The Bell",
+                "description": "This week on #WhiskyWednesdays, we\u2019re going back to school to learn how a single malt is made, but if you think this is going to be a boring lecture, think again. We\u2019ll be uncorking three A+ single malts that each get their unique character from the whisky making process.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E07.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E07-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E07.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E07.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: The Battle Isn't Over Yet",
+                "description": "The saga continues this week on #WhiskyWednesdays as we taste another round of single malts from the Game of Thrones Collection. So break out your chalice and get ready to taste some amazing whisky.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E08.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E08-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E08.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E08.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Distiller's Edition",
+                "description": "This week on #WhiskyWednesdays, we\u2019re enjoying a nice wine, though not as you might think. We\u2019re talking single malts finished in fortified wine casks. These special batches, known as Distiller\u2019s Editions, all have their own unique flavor so tune in to see how a little sherry brings them to a whole new level.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E09.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E09-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E09.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E09.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Father's Day Pairings",
+                "description": "Buon appetito! This week, #WhiskyWednesdays is back and hungrier than ever as we're sitting down with guest chef Giamie Mauri to identify what you can pair with The Classic Malts Strong Collection to bring your #FathersDay meal to Michelin star levels.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E10.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E10-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E10.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E10.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Age Is Just A Number",
+                "description": "Age is just a number...unless you\u2019re talking about single malts. A couple extra years in the barrel can make a huge difference in the flavor (and the price) of your favorite whisky. Join us this week as we explore the different marks of The Singleton of Glendullan to see just how important those age statements are.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E11.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E11-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E11.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E11.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Calling All Carnivores",
+                "description": "This week, #WhiskyWednesdays is going to be a well done, rare treat as we're telling you the best cuts of meat to enjoy with the different age statements of Lagavulin. We'll be joined by spirits author Kurt Maitland as we slice down the best options for which slab should be on your plate when this smokey Islay staple starts flowing.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E12.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E12-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E12.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E12.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: The One True King",
+                "description": "This week on #WhiskyWednesdays, the one true king won\u2019t be Bran, but it will be dram, as we do battle one last time with the Game of Thrones single malt collection. Tune in to see which scotch deserves a seat upon the Iron Throne.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E13.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E13-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E13.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E13.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: The World Is Your Oyster",
+                "description": "This week on #WhiskyWednesdays, the world is your oyster as we're diving into the world of Talisker. This famed seaside distillery is the birthplace to some of the world's finest whisky, which we'll be slurping with Oystertainer Sidney Boria of Red Oyster USA and Talisker distillery manager Diane Farrell.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S01E14.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E14-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E14.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E14.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: A Rare Treat",
+                "description": "#WhiskyWednesdays is back and more festive than ever as Flavien Desoblin fills his stocking with some rare, cask strength single malts from Scotland\u2019s most beloved distilleries.The Singleton of Dufftown 17 yrs, Lagavulan 12 yrs, Talisker 8yrs",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E15.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E15-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E15.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S01E15.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Elizabeth Karmel",
+                "description": "This #WhiskyWednesday, we're letting you in on a secret...for the first time, we reveal what our Spirits Network Bottle Of the Month members have been drinking! Tune in for a tasting of some very unique bottles and delicious food pairings with Elizabeth Karmel, Founding Executive Chef of Hill Country BBQ Market. Its a palate pleasure you won't want to miss!",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E01.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Heather Dolland Tanem",
+                "description": "There\u2019s nothing more complimentary to a change of season, than the right spirit! Check out our April Bottle of the Month selections to see what Spirits Network members are enjoying this spring...and what our guest, Heather Dolland Tamem, Author of \"Discovering the New York Spirits Boom\" thinks about them.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E02-world.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E02.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Tequila Takeover",
+                "description": "This week, we are having a TEQUILA TAKEOVER! That\u2019s right, the magical agave spirit is hijacking our #WhiskyWednesdays so we can show you what our Spirits Network Agave members have been enjoying these last few months. Guest appearance by Ivy Mix, owner of Leyenda.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E03.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E03.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E03.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Elizabeth Karmel Returns",
+                "description": "Make sure you \u201ctreat\u201d yourself right! For our May Bottle of the Month members, we invite Chef Elizabeth Karmel, author of the amazing cookbook \u201cSteak and Cake\u201d, to pair our selections with some of your favorite desserts.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E04-AW.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E04-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E04.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E04.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Tequla Takeover - Casa Dragones Anejo Barrel Blend",
+                "description": "Bertha Gonz\u00e1lez Nieves, the first female Maestra Tequilera and the CEO and Co-Founder of Casa Dragones joins Flavien on today's #WhiskyWednesdays TEQUILA TAKEOVER! to sip Casa Dragones' new aged expression, Anejo Barrel Blend",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S02E05.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E05-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E05.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E05.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: On Location w/ Royal Salute",
+                "description": "Come to Polo's biggest event of the year, stay for Flavien's tasting of some rare and exquisite whisky. Royal Salute Estancia stars in this special edition of #Whisky Wednesdays On Location with a guest appearance by famed whisky journalist, Aaron Goldfarb.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW_S02E06.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E06-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E06.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E06.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Rum Takeover (Neo and Santa Teresa)",
+                "description": "Whisky\u2019s wilder, less talked about spirit sister, Rum takes a front seat on this Rum Takeover. Two of the most creative mixologists in the game - Ivy Mix and Karl Williams join for .",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E07.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E07-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E07.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E07.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: It \"Rums\" in the Family",
+                "description": "It \u201cRums\u201d in the family this holiday season when host Flavien Desoblin dives into two special bottles of sipping rum that shouldn\u2019t be missed!",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E08.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E08-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E08.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S02E08.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Spirit of Father's Day",
+                "description": "On this episode of #WhiskyWednesdays we\u2019re celebrating extraordinary dads and amazing whiskeys. Join Flavien and his guests, @JohnnyDrinks and Irish distiller, Eva O\u2019Doherty as they open up three bottles of Method and Madness, an Irish brand led by experimentation and restless curiosity.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E01.vtt"
+                }
+            },
+            {
+                "title": "Whisky Wednesdays: Espolon Tequila Takeover",
+                "description": "Ivy Mix hosts this #whiskyWednesdays Tequila Takeover with friend and mixologist Alex Valencia. Together they try Espol\u00f3n\u2019s new cristalino and mix up some festive Espol\u00f3n cocktails just in time for the holidays.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WW-S03E02.vtt"
+                }
+            },
+            {
+                "title": "Wid About Whisky: Stranahan's",
+                "description": "Join host Carrie Keagan as she travels to Denver to visit Stranahan\u2019s Whiskey Distillery. There she\u2019ll sample some great American whiskies, learn the ins and outs of the distillation process \u201cStranahan's style\u201d and explore Denver\u2019s great outdoors.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW_S01E01_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Wid About Whisky: Jeffersons",
+                "description": "Carrie Keagan is back for another wild ride. This time, she\u2019s in Louisville, Kentucky to visit Jefferson\u2019s Distillery and partake in the local flair with Jefferson\u2019s Founder, Trey Zoeller.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E02.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E02-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E02.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WAW-S01E02.vtt"
+                }
+            },
+            {
+                "title": "Wine Uncorked: Zetta",
+                "description": "Join comedian-turned-sommelier Patrick Ney and fellow wine lover, Cedric the Entertainer as they explore the Napa Valley and visit some of the most renowed and unique wineries in the region, including Chateau Montelena, Stag\u2019s Leap Wine Cellars, Schramsberg, Chappellet and newcomer, RD Winery.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WUNC-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WUNC-S01E01_Still_1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WUNC-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WUNC-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Women's Whiskey Revolution: Bourbon Women Siposium",
+                "description": "In this series, Bourbon Women's grand dame Peggy Noe Stevens explores the female-led movement within the whiskey world in conversation with fellow industry powerhouses.",
+                "category": "spirits",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WWR-S01E01.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WWR-S01E01-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WWR-S01E01.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/WWR-S01E01.vtt"
+                }
+            },
+            {
+                "title": "Tom Colicchio's The Pantry: Liev Schreiber",
+                "description": "Actor and director Liev Schreiber inspires Tom Colicchio with the flavors of his Irish Whiskey, Sl\u00e1inte. Tom uses it to elevate a classic dish, while the two masters of their craft discuss the parallels between the art of cooking and performance.",
+                "category": "cooking",
+                "media:content": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PAN_S01E03_Vizio.mp4",
+                    "type": "video/mp4"
+                },
+                "media:thumbnail": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PAN-S01E03-still-1920x1080.png"
+                },
+                "media:srt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PAN_S01E03_Vizio.srt"
+                },
+                "media:vtt": {
+                    "url": "https://nbtv.s3.us-east-2.amazonaws.com/video/SnOrg/PAN_S01E03_Vizio.vtt"
+                }
+            }
+        ]
+    }
+}
